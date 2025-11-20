@@ -1,1 +1,6 @@
 streamlit
+streamlit_extras
+deep-translator
+pypdf
+python-docx
+pyperclip
